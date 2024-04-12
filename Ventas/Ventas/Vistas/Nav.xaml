@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ventas.Vistas.Nav"
+             Title="Nav">
+    <Grid BackgroundColor="#FDF7E4">
+        <StackLayout>
+            <Button Text="Clientes"
+                    x:Name="btnClientes"
+                    TextColor="Blue"
+                    Clicked="btnClientes_Clicked"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

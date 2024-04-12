@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ventas.Vistas.FormEdit.NuevoClientePage">
+    <StackLayout>
+        <Label Text="Nuevo Cliente"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               Margin="0,20,0,10" />
+        <Entry x:Name="txtNombre"
+               Placeholder="Nombre"
+               FontSize="Medium"
+               Margin="20,0,20,10" />
+        <Entry x:Name="txtApellido"
+               Placeholder="Apellido"
+               FontSize="Medium"
+               Margin="20,0,20,10" />
+        <Button Text="Guardar"
+                FontSize="Large"
+                BackgroundColor="#7c50e9"
+                TextColor="White"
+                CornerRadius="10"
+                x:Name="BtnGuardarCliente"
+                Clicked="BtnGuardarCliente_Clicked"
+                Margin="20,0,20,10" />
+    </StackLayout>
+</ContentPage>

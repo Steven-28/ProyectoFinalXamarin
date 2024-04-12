@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\inicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\inicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\cliente.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\cliente.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\data\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\data\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\formacciones\\nuevoclientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\formacciones\\nuevoclientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\actualizarclientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\actualizarclientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\actualizarclientepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\actualizarclientepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\formacciones\\nuevoclientepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\formacciones\\nuevoclientepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|c:\\users\\admin\\desktop\\ventas\\ventas\\ventas\\vistas\\nav.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2F24970-CC31-4895-8599-823E479BBBF6}|Ventas\\Ventas\\Ventas.csproj|solutionrelative:ventas\\ventas\\vistas\\nav.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cliente.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\cliente.xaml",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\cliente.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\cliente.xaml",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\cliente.xaml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAHwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T02:14:46.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\Inicio.xaml",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\Inicio.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\Inicio.xaml",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\Inicio.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T02:13:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Data\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Data\\SQLiteHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Data\\SQLiteHelper.cs",
+              "RelativeToolTip": "Ventas\\Ventas\\Data\\SQLiteHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:28:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Models\\Clientes.cs",
+              "RelativeToolTip": "Ventas\\Ventas\\Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:32:12.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActualizarClientePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T15:51:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuevoClientePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml.cs",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:46:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\cliente.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\cliente.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\cliente.xaml.cs",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\cliente.xaml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAwwKAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:44:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActualizarClientePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml.cs",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\ActualizarClientePage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:52:13.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NuevoClientePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\formacciones\\NuevoClientePage.xaml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T15:42:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nav.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\Nav.xaml",
+              "RelativeDocumentMoniker": "Ventas\\Ventas\\Vistas\\Nav.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Ventas\\Ventas\\Ventas\\Vistas\\Nav.xaml",
+              "RelativeToolTip": "Ventas\\Ventas\\Vistas\\Nav.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T02:15:18.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

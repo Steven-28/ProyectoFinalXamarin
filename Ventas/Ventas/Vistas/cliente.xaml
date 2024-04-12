@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ventas.Vistas.cliente">
+    <StackLayout>
+        <Label Text="Clientes :v"
+               FontSize="Large"
+               HorizontalOptions="Center" />
+        <Button Text="Nuevo Cliente"
+                CornerRadius="10"
+                FontSize="Large"
+                FontAttributes="Bold"
+                Margin="0, 0, 0, 0"
+                TextTransform="None"
+                Background="#7c50e9"
+                TextColor="White"
+                x:Name="BtnNuevoCliente"
+                Clicked="BtnNuevoCliente_Clicked" />
+        <Entry x:Name="txtIdCliente"
+               Placeholder="id"
+               TextColor="Black"
+               PlaceholderColor="Black"
+               FontSize="Large"
+               IsVisible="False" />
+        <Entry x:Name="txtNombreClient"
+               Placeholder="Nombre del Cliente"
+               TextColor="Black"
+               PlaceholderColor="Black"
+               FontSize="Large" />
+        <Entry x:Name="txtApellidoClient"
+               Keyboard="Text"
+               Placeholder="Apellido"
+               TextColor="Black"
+               PlaceholderColor="Black"
+               FontSize="Large" />
+        <Button Text="Guardar"
+                CornerRadius="10"
+                FontSize="Large"
+                FontAttributes="Bold"
+                Margin="0, 0, 0, 0"
+                TextTransform="None"
+                Background="#7c50e9"
+                TextColor="White"
+                x:Name="btnRegistrar"
+                Clicked="btnRegistrar_Clicked" />
+        <Button Text="Actualizar"
+                CornerRadius="10"
+                FontSize="Large"
+                FontAttributes="Bold"
+                Margin="0, 0, 0, 0"
+                TextTransform="None"
+                Background="#7c50e9"
+                TextColor="White"
+                x:Name="BtnActualizar"
+                Clicked="BtnActualizar_Clicked"
+                IsVisible="False" />
+        <Button Text="Eliminar"
+                CornerRadius="10"
+                FontSize="Large"
+                FontAttributes="Bold"
+                Margin="0, 0, 0, 0"
+                TextTransform="None"
+                Background="#7c50e9"
+                TextColor="White"
+                x:Name="BtnEliminar"
+                Clicked="BtnEliminar_Clicked"
+                IsVisible="False" />
+        <StackLayout VerticalOptions="Center"
+                     Orientation="Horizontal"
+                     Margin="1">
+            <Label Text="Id"
+                   TextColor="Black"
+                   FontSize="14"
+                   FontAttributes="Bold" />
+            <Label Text="Nombre"
+                   TranslationX="90"
+                   TextColor="Black" />
+            <Label Text="Apellido"
+                   TranslationX="150"
+                   TextColor="Black" />
+            <Label Text="Acciones"
+                   TranslationX="230"
+                   TextColor="Black" />
+        </StackLayout>
+        <ListView x:Name="lstClientes"
+                  ItemSelected="lstClientes_ItemSelected"
+                  SelectionMode="None">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding IdCliente}"
+                                   Grid.Row="0"
+                                   Grid.Column="0"
+                                   TextColor="Blue" />
+                            <Label Text="{Binding NombreCliente}"
+                                   Grid.Row="0"
+                                   Grid.Column="1"
+                                   TextColor="Blue" />
+                            <Label Text="{Binding ApellidoCliente}"
+                                   Grid.Row="0"
+                                   Grid.Column="2"
+                                   TextColor="Blue" />
+                            <StackLayout Grid.Row="0"
+                                         Grid.Column="3"
+                                         Orientation="Horizontal"
+                                         VerticalOptions="CenterAndExpand">
+                                <Button ImageSource="edit.png"
+                                        FontSize="Small"
+                                        WidthRequest="50"
+                                        x:Name="BtnActualizar"
+                                        Clicked="BtnActualizar_Clicked"
+                                        BackgroundColor="Green"
+                                        Text="Actualizar"
+                                        TextColor="White" />
+                                <Button Text="Eliminar"
+                                        FontSize="Small"
+                                        BackgroundColor="Red"
+                                        TextColor="White"
+                                        WidthRequest="50"
+                                        x:Name="BtnEliminar"
+                                        Clicked="BtnEliminar_Clicked"/>
+                            </StackLayout>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
